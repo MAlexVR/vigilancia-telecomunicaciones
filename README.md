@@ -8,7 +8,62 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=flat-square&logo=tailwindcss)
 ![Tests](https://img.shields.io/badge/tests-160%2B%20passing-brightgreen?style=flat-square)
 
-Plataforma web de vigilancia científico-tecnológica para el área de telecomunicaciones del Centro de Electricidad, Electrónica y Telecomunicaciones (CEET) — SENA. Integra dos herramientas complementarias: el **Radar Tecnológico** (madurez y adopción de 24 tecnologías en un horizonte 2025-2035) y el **Mapa de Trayectoria Tecnológica** (evolución de capacidades del Centro en el tiempo, por direccionador estratégico). Diseñada para instructores, investigadores GICS y tomadores de decisión institucional que necesitan fundamentar la planeación curricular y la prospectiva tecnológica con datos trazables a fuentes colombianas primarias.
+Plataforma web de vigilancia científico-tecnológica para el área de Telecomunicaciones del Centro de Electricidad, Electrónica y Telecomunicaciones (CEET) — SENA, que permite fundamentar la planeación curricular y la prospectiva tecnológica del Centro mediante datos trazables a fuentes primarias colombianas.
+
+La plataforma integra dos herramientas complementarias:
+
+### 1. Radar Tecnológico
+
+Permite visualizar la madurez y la fase de adopción de **24 de las 25 líneas tecnológicas** identificadas en el informe de vigilancia científico-tecnológica, en el horizonte **2025-2035**. Una de las líneas no se representa gráficamente en el radar por los motivos expuestos en el informe.
+
+Sus principales características son:
+
+- Organización de las tecnologías en cinco direccionadores del desarrollo.
+- Indicador de madurez tecnológica **TRL (1-9)**.
+- Clasificación mediante cuatro anillos: **Adoptar, Probar, Evaluar y Monitorear**.
+- Filtros por direccionador del desarrollo y fase de adopción.
+- Exportación de visualizaciones en formatos **PNG y PDF**.
+
+### 2. Mapa de Trayectoria Tecnológica
+
+Permite visualizar la evolución de las capacidades del Centro a lo largo del tiempo, organizadas por direccionador estratégico y distribuidas en cuatro capas:
+
+- **Tecnologías.**
+- **Infraestructura.**
+- **Talento e I+D+i.**
+- **Alianzas.**
+
+Incluye la funcionalidad de exportación a **PDF**.
+
+### Accesibilidad y documentación
+
+La plataforma puede visualizarse tanto en computadores de escritorio como en dispositivos móviles.
+
+Cuenta con un **manual de usuario ilustrado (versión 01, noviembre de 2026)**, verificado contra la aplicación en funcionamiento.
+
+### Contexto del proyecto
+
+La plataforma constituye un resultado verificable del proyecto de investigación **Vigilancia Científico-Tecnológica CEET-GICS (2025-2035)**, del área de Telecomunicaciones.
+
+Está diseñada para instructores, investigadores del grupo **GICS** y tomadores de decisiones institucionales que requieren fundamentar la planeación curricular y la prospectiva tecnológica.
+
+### Desarrollo y validación
+
+Su desarrollo cumplió las siguientes etapas:
+
+1. **Análisis:** definición de requerimientos.
+2. **Diseño:** arquitectura, módulos e interfaces.
+3. **Implementación:** codificación y pruebas.
+4. **Validación:** verificación del cumplimiento de requisitos y aceptación del usuario final.
+
+### Nivel de desarrollo tecnológico e innovación
+
+Herramienta funcional desplegada en producción (**versión 2.3.0**), destinada al uso institucional en el CEET.
+
+Cuenta con:
+
+- Más de **160 pruebas automatizadas**, tanto unitarias como de extremo a extremo (E2E).
+- Verificación continua mediante **GitHub Actions**.
 
 Grupo de Investigación, Innovación y Producción Académica — **GICS**
 
