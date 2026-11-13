@@ -65,7 +65,7 @@ Cuenta con:
 - Más de **160 pruebas automatizadas**, tanto unitarias como de extremo a extremo (E2E).
 - Verificación continua mediante **GitHub Actions**.
 
-Grupo de Investigación, Innovación y Producción Académica — **GICS**
+Grupo de Investigación del Centro de Electricidad, Electrónica y Telecomunicaciones del SENA — **GICS**
 
 ---
 
